@@ -9,7 +9,7 @@ background-color: #E8E8E8;
 
 #header {
 width: 100%;
-height: 800vh;
+height: 1000vh;
 background-color: #E8E8E8;
 background-position: center;
 background-repeat:repeat;
@@ -345,7 +345,6 @@ font-style: normal;
 font-weight: 700;
 text-align: center;
 margin-top: -90px;
-
 }
 .col7 h3{
 color: var(--heading, #535353);
@@ -413,9 +412,107 @@ margin-top: 50px;
 text-align: center;
 }
 .col10{
-  margin-left: 200px;
+margin-left: 200px;
 }
 
+/*-----------user-persona--------*/
+
+.persona h1{
+color: var(--heading, #BBD39F);
+font-family: Inter;
+font-size: 128px;
+font-style: normal;
+font-weight: 700;
+opacity: 50%;
+margin-left: 150px;
+margin-top: 4px;
+}
+.persona h2{
+color: var(--heading, #535353);
+font-family: Inter;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+text-align: center;
+margin-top: -90px;
+}
+.persona p{
+color: #585858;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 141.4%; /* 33.936px */
+margin-left: 150px;
+
+}
+.persona img{
+width: 1207px;
+height: 700px;
+flex-shrink: 0;
+margin-left: 60px;
+}
+/*-----------empathy--------*/
+
+.empathy h1{
+  color: var(--heading, #BBD39F);
+  font-family: Inter;
+  font-size: 128px;
+  font-style: normal;
+  font-weight: 700;
+  opacity: 50%;
+  margin-left: 150px;
+  margin-top: 4px;
+  }
+  .empathy h2{
+  color: var(--heading, #535353);
+  font-family: Inter;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  text-align: center;
+  margin-top: -90px;
+  }
+  .empathy p{
+  width: 1005px;
+  color: #585858;
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 141.4%; /* 33.936px */
+  margin-left: 170px;
+  margin-top: 100px;
+  
+  }
+  .empathy img{
+  width: 948px;
+  height: 834.387px;
+  flex-shrink: 0;
+  margin-left: 60px;
+  }
+/*-----------userinsight--------*/
+.insight img{
+margin-top: 150px;
+}
+.insight h2{
+color-scheme: var(--heading, #535353);
+font-family: Inter;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+text-align: center;
+}
+.insights p{
+color: #585858;
+font-family: Inter;
+font-size: 2px;
+font-style: normal;
+font-weight: 500;
+line-height: 141.4%; /* 33.936px */
+margin-left: 150px
+}
+  
 
 
 
